@@ -37,7 +37,7 @@
       "defaultLabelHoverColor": "white",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 25
+      "defaultLabelSize": "peso"
     },
     "graphProperties": {
       "maxEdgeSize": 2.5,
