@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "white",
-      "labelThreshold": 1,
+      "labelThreshold": 10,
       "defaultLabelHoverColor": "white",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
